@@ -12,7 +12,11 @@ export const database = {
     {
       id: 2,
       nombre: 'Universidad de Rio Negro',
-      direccion: { calle: 'Av. Roca', numero: 3023, provincia: 'Rio Negro' },
+      direccion: { 
+        calle: 'Av. Roca', 
+        numero: 3023, 
+        provincia: 'Rio Negro' 
+      },
     },
   ],
   profesores: [
